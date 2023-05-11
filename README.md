@@ -1,2 +1,2 @@
 # FB_Project
-prepare the facebook projrct
+This repository is to develope the application
